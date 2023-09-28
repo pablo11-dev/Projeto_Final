@@ -77,7 +77,9 @@ Para executar o software, siga as etapas abaixo:
 4. Siga as instruções apresentadas no console para interagir com o software.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Relatório
+#### Relatório
+
+
 O código representa um sistema de comércio implementado em Python. Ao iniciar o software, a página inicial mostra um menu que possibilita o login como administrador ou como cliente, que levam a menus diferentes. Ao realizar o login, o usuário insere nome e senha. 
 
 No menu voltado aos clientes, as opções são para a compra, ou seja: listar os produtos disponíveis, mostrando sua descrição, seu valor e seu ID; adicionar produto ao carrinho, usando seu ID; listar os produtos do carrinho e finalizar a compra, quando o produto sai do carrinho de compras e vai pra lista de produtos comprados. 
